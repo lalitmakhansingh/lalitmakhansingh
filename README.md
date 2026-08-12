@@ -19,7 +19,6 @@ Currently working across **C++, JavaScript, React, Node.js, Express, MongoDB, SQ
 - 🎓 Engineering student focused on software development and problem solving
 - 💻 Interested in **backend development, DSA, analytics, and product engineering**
 - 🧩 I enjoy building projects that combine **software + data + automation**
-- 🚀 Building **Shorts2Code**, a productivity-focused Chrome extension
 - 📊 Exploring **SQL, Power BI, analytics workflows, and decision-focused problem solving**
 - 🏗️ Goal: build production-quality projects that solve real problems
 
@@ -89,22 +88,6 @@ Interactive Power BI project focused on healthcare KPIs, department analysis, pa
 
 ---
 
-## 🧠 Problem Solving
-
-I regularly practice **Data Structures & Algorithms** with C++, focusing on:
-
-```text
-Arrays → Strings → Linked Lists → Trees → Graphs
-                         ↓
-                Sorting & Searching
-                         ↓
-             Recursion / DP / Greedy
-                         ↓
-                  Problem Solving
-```
-
----
-
 ## 🎯 Current Focus
 
 ```text
@@ -115,19 +98,11 @@ Software Engineering
         ├── Full-Stack Development
         ├── SQL & Data Analytics
         ├── Power BI
-        └── Browser Extension Development
+        └── Learning AI/ML
+
 ```
 
----
 
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitmakhansingh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmakhansingh&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages">
-</p>
-
----
 
 ## 🤝 Let's Connect
 
