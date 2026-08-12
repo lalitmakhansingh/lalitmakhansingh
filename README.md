@@ -1,16 +1,140 @@
-## Hi there 👋
+# Hi, I'm Lalit Makhan Singh 👋
 
-<!--
-**lalitmakhansingh/lalitmakhansingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer • Full-Stack Developer • Data & Analytics Enthusiast
 
-Here are some ideas to get you started:
+I build practical software products with a focus on **clean engineering, problem solving, and useful user experiences**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working across **C++, JavaScript, React, Node.js, Express, MongoDB, SQL, Power BI, and Chrome Extensions** — with a strong interest in backend development and data-driven products.
+
+<p>
+  <a href="https://github.com/lalitmakhansingh"><img src="https://img.shields.io/github/followers/lalitmakhansingh?label=Followers&style=flat-square" alt="GitHub followers"></a>
+  <a href="https://github.com/lalitmakhansingh?tab=repositories"><img src="https://img.shields.io/github/stars/lalitmakhansingh?affiliations=OWNER&style=flat-square&label=Stars" alt="GitHub stars"></a>
+  <img src="https://komarev.com/ghpvc/?username=lalitmakhansingh&style=flat-square&label=Profile%20Views" alt="Profile views">
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Engineering student focused on software development and problem solving
+- 💻 Interested in **backend development, DSA, analytics, and product engineering**
+- 🧩 I enjoy building projects that combine **software + data + automation**
+- 🚀 Building **Shorts2Code**, a productivity-focused Chrome extension
+- 📊 Exploring **SQL, Power BI, analytics workflows, and decision-focused problem solving**
+- 🏗️ Goal: build production-quality projects that solve real problems
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css" alt="C++, JavaScript, HTML, CSS">
+</p>
+
+**Frontend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" alt="React and Tailwind CSS">
+</p>
+
+**Backend & Databases**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB, MySQL">
+</p>
+
+**Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, VS Code, Docker">
+</p>
+
+Also working with **Power BI, Power Query, REST APIs, Chrome Extension APIs, and SQL**.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧩 Shorts2Code
+
+A productivity-focused Chrome extension that blocks distracting short-form content and redirects attention toward coding.
+
+**Highlights:** YouTube Shorts blocking • Instagram protection • configurable redirects • Focus Mode • local statistics • Manifest V3
+
+**Stack:** JavaScript • HTML • CSS • Chrome Extension APIs
+
+→ **[View Project](https://github.com/lalitmakhansingh/Shorts2Code)**
+
+---
+
+### 🏥 HealthHub — Healthcare Management Portal
+
+Full-stack healthcare platform for patient registration, appointment scheduling, and digital health record management.
+
+**Stack:** React • Node.js • Express • MongoDB • Tailwind CSS
+
+→ **[View Project](https://github.com/lalitmakhansingh/health-hub)**
+
+---
+
+### 📊 Healthcare Analytics Dashboard
+
+Interactive Power BI project focused on healthcare KPIs, department analysis, patient trends, readmissions, occupancy, and average length of stay.
+
+**Stack:** Power BI • Power Query • SQL • Data Visualization
+
+→ **[View Project](https://github.com/lalitmakhansingh/HealthCare-Analytics-Dashboard)**
+
+---
+
+## 🧠 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** with C++, focusing on:
+
+```text
+Arrays → Strings → Linked Lists → Trees → Graphs
+                         ↓
+                Sorting & Searching
+                         ↓
+             Recursion / DP / Greedy
+                         ↓
+                  Problem Solving
+```
+
+---
+
+## 🎯 Current Focus
+
+```text
+Software Engineering
+        │
+        ├── DSA & C++
+        ├── Backend Engineering
+        ├── Full-Stack Development
+        ├── SQL & Data Analytics
+        ├── Power BI
+        └── Browser Extension Development
+```
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitmakhansingh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmakhansingh&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages">
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/lalitmakhansingh">GitHub</a>
+</p>
+
+I'm interested in **software engineering, backend systems, data, developer tools, and productivity products**.
+
+> **Build useful things. Solve real problems. Keep improving.**
