@@ -74,7 +74,7 @@ Full-stack healthcare platform for patient registration, appointment scheduling,
 
 **Stack:** React • Node.js • Express • MongoDB • Tailwind CSS
 
-→ **[View Project]([https://github.com/lalitmakhansingh/health-hub-fullstack])**
+→ **[View Project](https://github.com/lalitmakhansingh/health-hub-fullstack)**
 
 ---
 
